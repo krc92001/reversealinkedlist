@@ -1,2 +1,2 @@
 # reversealinkedlist
-# Just a Basic Linked list and a simple Reversal Function
+# Just a Basic Linked list and a simple Reversal Function written in C
